@@ -1792,7 +1792,7 @@ Además, nos han entregado los resultados de tu prueba de sincronización.
 
 449
 00:25:23,000 --> 00:25:26,000
-Tu nivel es de 0.00%.
+Tu porcentaje de sincronización es de 0.00%.
 
 450
 00:25:26,000 --> 00:25:30,000
@@ -1944,7 +1944,7 @@ Han pasado 14 años.
 
 487
 00:27:07,000 --> 00:27:09,000
-Shinji idiota.
+Mocoso Shinji .
 
 488
 00:27:09,000 --> 00:27:15,000
@@ -2476,7 +2476,7 @@ Aquél, ¿el del piano?
 
 620
 00:35:40,000 --> 00:35:45,000
-Cuando llegue el momento, pilotearás este EVA junto con el muchacho.
+Cuando llegue el momento, pilotearás este EVA junto con ese muchacho.
 
 621
 00:35:45,000 --> 00:35:48,000
@@ -2716,7 +2716,7 @@ No te incumbe.
 
 680
 00:40:38,000 --> 00:40:40,000
-¡Por favor, no pilotees el EVA!
+¡Símplemente, no pilotees el EVA!
 
 681
 00:40:40,000 --> 00:40:41,000
@@ -3664,7 +3664,7 @@ No te incumbe.
 
 917
 00:59:56,000 --> 00:59:59,000
-¡Por favor, no pilotees un EVA!
+¡Símplemente, no pilotees un EVA!
 
 918
 00:59:59,000 --> 01:00:00,000
@@ -5008,7 +5008,7 @@ ADELANTO
 
 1253
 01:35:12,000 --> 01:35:16,000
-Shinji Ikari continúa vangando, sin voluntad de vivir.
+Shinji Ikari continúa vagando, sin voluntad de vivir.
 
 1254
 01:35:16,000 --> 01:36:19,000
